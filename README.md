@@ -1,0 +1,1 @@
+Socket.IO is a JavaScript library that enables real-time, bidirectional communication between web clients and servers. It abstracts away the complexities of real-time communication, providing a simple and robust API for sending and receiving events. This project uses functions such as on, broadcase, to , emit, and room.
